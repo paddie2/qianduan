@@ -1,0 +1,12 @@
+.my-text{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.my-text-txt{
+    text-align: center;
+    color:blueviolet;
+    line-height: 1em;
+    vertical-align: middle;
+}
